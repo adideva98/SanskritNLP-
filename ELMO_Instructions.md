@@ -4,7 +4,7 @@ Download the options.json file from here <https://github.com/adideva98/SanskritN
 
 If n_characters in it is not set to 262, set it to 262 ( Set it to 261 during training)
 
-Create a model folder and keep the model, options and vocab.txt file in it.
+Create a model folder and keep the model, options and vocab.txt(provided before along with test and train data) file in it.
 
 After this the code can be followed from either of these sources based on your usage. Listed in the order of preference.
 
