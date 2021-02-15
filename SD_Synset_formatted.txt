@@ -1,6 +1,6 @@
 Frequency,Query Word,Option A,Option B,Option C,Option D
 'Rarely Occuring', 'awwaH', 'udarkaH', 'vAraH', 'anuzWAnam', 'gonATaH'
-' Frequently Occuring', 'aDika', 'atirikta', 'dfzad', 'mahAnArAyaRopanizad', 'upAlaB'
+' Frequently Occuring', 'aDika', 'atirikta', 'udagra', 'prakfzwa', 'viBrama'
 'Not occuring', 'aDikArIgaRaH', 'aDikArIvargaH', 'suBo', 'nikawatA', 'upanizad'
 'Not occuring', 'aDikArTa', 'atikfta', 'kulAhalaH', 'saMcAlI', 'sAvaDAnIBU'
 'Not occuring', 'aDikozaRam', 'aDikoza', 'DEryatA', 'raNgamAtfkA', 'SaktivEkalyam'
